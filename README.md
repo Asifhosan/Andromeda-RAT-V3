@@ -11,7 +11,8 @@ List :-
 ✅Ransome 👿👿
 ✅Encrypt Decrypt 
 ✅Full Remote Access 
-✅Passwords and Target ✅Stealer All Informations 
+✅Passwords and Target 
+✅Stealer All Informations 
 ✅HVnc Android 
 ✅Open All Port’s 
 ✅Turn Bluetooth On/Off 
@@ -67,14 +68,33 @@ List :-
 ✅Token Recovery WhatsApp
 ✅Download Install Silent App
 ✅Change Wallpaper
-✅phishing Get Password Gmail Login & 2FA Page
-✅phishing Get Password Facebook Login &  2FA Page
-✅phishing Get Password Instagram Login & 2FA Page
-✅phishing Get Password Binance Login & 2FA Page
-✅phishing Get Password WhatsApp Login & 2FA Page
-✅phishing Get Password Google Authenticate Login & 2FA Page
-✅phishing Get Password Tiktok Fake Screen Authenticate
-✅phishing Get Password Kwai Fake Screen Authenticate
-✅phishing Get Password snapchat Fake Screen Authenticate
+
+✅phishing Get Password 
+Gmail Login & 2FA Page
+
+✅phishing Get Password
+ Facebook Login &  2FA Page
+
+✅phishing Get Password 
+Instagram Login & 2FA Page
+
+✅phishing Get Password 
+Binance Login & 2FA Page
+
+✅phishing Get Password 
+WhatsApp Login & 2FA Page
+
+✅phishing Get Password 
+Google Authenticate Login & 2FA Page
+
+✅phishing Get Password 
+Tiktok Fake Screen Authenticate
+
+✅phishing Get Password 
+Kwai Fake Screen Authenticate
+
+✅phishing Get Password 
+snapchat Fake Screen Authenticate
+
 ✅More 34 options
                                                     👨‍💻 Dev @Final_Lucifer
